@@ -1,0 +1,25 @@
+.bike-specs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.spec {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-right: 50px;
+}
+
+.label {
+  margin-bottom: 5px;
+  font-size: 25px;
+  color:white;
+  opacity: 0.85;
+}
+
+.value {
+  font-weight: bold;
+  font-size: 35px;
+}
