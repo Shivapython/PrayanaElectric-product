@@ -40,7 +40,7 @@ header {
   
   nav ul li a:hover,
   nav ul li a:focus {
-    color: #4abc31; /* Example hover/focus color */
+    color: #4abc31; 
   }
   
   nav ul li a::after {
@@ -59,6 +59,6 @@ header {
   }
   
   nav ul li a.active {
-    color: rgb(100, 248, 107); /* Example active color */
+    color: rgb(100, 248, 107); 
   }
   
