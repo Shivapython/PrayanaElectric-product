@@ -256,13 +256,13 @@ body {
 }
 
 .foot {
-  position: relative; /* or absolute, depending on your layout */
+  position: relative; 
   bottom: 0;
   left: 0;
   width: 100%;
-  background-color: #f0f0f0; /* optional */
+  background-color: #f0f0f0; 
   padding: 20px;
   text-align: center;
-  clear: both; /* add this to clear any floating elements */
-  margin-top: 40px; /* add some margin to separate from the content */
+  clear: both; 
+  margin-top: 40px; 
 }
