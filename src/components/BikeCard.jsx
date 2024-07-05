@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import Bikeinfo from './BikeInfo';
-import './BikeCard.css'; // Import your custom CSS
+import './BikeCard.css'; 
 
 
 const BikeCard = ({ bike }) => {
